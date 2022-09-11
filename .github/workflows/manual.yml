@@ -1,4 +1,4 @@
-name: Issue assignment
+name: Pull request
 
 on:
     pull_request:
